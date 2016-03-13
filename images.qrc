@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Images/Floor_Grass1.jpg</file>
+        <file>Images/Floor_Grass2.jpg</file>
+        <file>Images/Floor_Grass3.jpg</file>
+        <file>Images/Floor_Marble.jpg</file>
+        <file>Images/Floor_Metal_Diamond.jpg</file>
+        <file>Images/Floor_Stone.jpg</file>
+        <file>Images/Floor_Stone_Grass.jpg</file>
+        <file>Images/Floor_Swamp.jpg</file>
+        <file>Images/Floor_Wood.jpg</file>
+        <file>Images/Hellknight.gif</file>
+        <file>Images/Imp.gif</file>
+        <file>Images/Cacodemon.png</file>
+    </qresource>
+</RCC>
